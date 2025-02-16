@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/saurik-saha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurik saha" height="30" width="40" /></a>
 <a href="https://instagram.com/sauriksaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sauriksaha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rick_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rick_10" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rick_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rick_10" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/codeRick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rick_10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
